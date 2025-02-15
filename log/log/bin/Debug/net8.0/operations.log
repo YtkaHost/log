@@ -1,0 +1,127 @@
+2025-02-15 10:33:57.851 +02:00 [INF] Выбран товар Смартфон (ID: 1)
+2025-02-15 10:33:57.891 +02:00 [DBG] Генерация новой капчи
+2025-02-15 10:33:57.932 +02:00 [INF] Сгенерирована новая капча
+2025-02-15 10:34:19.191 +02:00 [DBG] Введено значение 4 в 3:7
+2025-02-15 10:57:04.957 +02:00 [INF] Выбран товар Смартфон (ID: 1)
+2025-02-15 10:57:05.024 +02:00 [DBG] Генерация новой капчи
+2025-02-15 10:57:05.027 +02:00 [INF] Сгенерирована новая капча
+2025-02-15 11:01:10.700 +02:00 [INF] Выбран товар Смартфон (ID: 1)
+2025-02-15 11:01:10.777 +02:00 [DBG] Генерация новой капчи
+2025-02-15 11:01:10.781 +02:00 [INF] Сгенерирована новая капча
+2025-02-15 11:01:16.357 +02:00 [WRN] Капча решена неверно
+2025-02-15 11:01:16.359 +02:00 [INF] Покупка отменена для товара Смартфон
+2025-02-15 11:01:16.360 +02:00 [INF] Program work end
+2025-02-15 11:01:23.156 +02:00 [INF] Выбран товар Смартфон (ID: 1)
+2025-02-15 11:01:23.223 +02:00 [DBG] Генерация новой капчи
+2025-02-15 11:01:23.225 +02:00 [INF] Сгенерирована новая капча
+2025-02-15 11:01:34.479 +02:00 [DBG] Введено значение 3 в 4:4
+2025-02-15 11:01:39.201 +02:00 [INF] Капча решена верно
+2025-02-15 11:01:39.205 +02:00 [INF] Покупка подтверждена для товара Смартфон
+2025-02-15 11:01:39.207 +02:00 [INF] Program work end
+2025-02-15 11:02:09.456 +02:00 [INF] Выбран товар Смартфон (ID: 1)
+2025-02-15 11:02:09.502 +02:00 [DBG] Генерация новой капчи
+2025-02-15 11:02:09.509 +02:00 [INF] Сгенерирована новая капча
+2025-02-15 11:02:30.726 +02:00 [DBG] Введено значение 2 в ячейку 8:4, осталось пустых: 0
+2025-02-15 11:02:35.184 +02:00 [INF] Капча решена верно
+2025-02-15 11:02:35.187 +02:00 [INF] Покупка подтверждена для товара Смартфон
+2025-02-15 11:02:35.188 +02:00 [INF] Program work end
+2025-02-15 11:09:07.282 +02:00 [INF] Выбран товар Смартфон (ID: 1)
+2025-02-15 11:09:07.355 +02:00 [DBG] Генерация новой капчи
+2025-02-15 11:09:07.360 +02:00 [INF] Сгенерирована новая капча
+2025-02-15 11:09:26.101 +02:00 [DBG] Введено значение 6 в 4:6
+2025-02-15 11:09:29.177 +02:00 [INF] Капча решена верно
+2025-02-15 11:09:29.180 +02:00 [INF] Покупка подтверждена для товара Смартфон
+2025-02-15 11:09:29.181 +02:00 [INF] Program work end
+2025-02-15 12:14:49.915 +02:00 [INF] Selected product Смартфон (ID: 1)
+2025-02-15 12:14:49.962 +02:00 [DBG] Generating new captcha
+2025-02-15 12:14:49.969 +02:00 [INF] New captcha generated
+2025-02-15 12:15:04.713 +02:00 [DBG] Entered value 2 at 1:2
+2025-02-15 12:15:16.796 +02:00 [INF] Captcha solved correctly
+2025-02-15 12:15:16.798 +02:00 [INF] Purchase confirmed for Смартфон
+2025-02-15 12:15:16.799 +02:00 [INF] Program work end
+2025-02-15 12:15:44.644 +02:00 [INF] Selected product Смартфон (ID: 1)
+2025-02-15 12:15:44.689 +02:00 [DBG] Generating new captcha
+2025-02-15 12:15:44.692 +02:00 [INF] New captcha generated
+2025-02-15 12:15:46.840 +02:00 [WRN] Incorrect captcha solution
+2025-02-15 12:15:46.841 +02:00 [INF] Purchase canceled for Смартфон
+2025-02-15 12:15:46.843 +02:00 [INF] Program work end
+2025-02-15 12:16:17.949 +02:00 [INF] Selected product Смартфон (ID: 1)
+2025-02-15 12:16:18.037 +02:00 [DBG] Generating new captcha
+2025-02-15 12:16:18.043 +02:00 [INF] New captcha generated
+2025-02-15 12:16:28.653 +02:00 [WRN] Incorrect captcha solution
+2025-02-15 12:16:28.657 +02:00 [INF] Purchase canceled for Смартфон
+2025-02-15 12:16:28.661 +02:00 [INF] Program work end
+2025-02-15 12:30:53.759 +02:00 [INF] Program work end
+2025-02-15 12:31:12.632 +02:00 [INF] Program work end
+2025-02-15 12:34:39.220 +02:00 [INF] Selected product Смартфон (ID: 1)
+2025-02-15 12:34:39.559 +02:00 [DBG] Generating new captcha
+2025-02-15 12:34:39.563 +02:00 [INF] New captcha generated
+2025-02-15 12:53:15.990 +02:00 [INF] Selected product Смартфон (ID: 1)
+2025-02-15 12:53:16.075 +02:00 [DBG] Generating new captcha
+2025-02-15 12:53:16.078 +02:00 [INF] New captcha generated
+2025-02-15 12:53:28.976 +02:00 [DBG] Entered value 5 at 3:3
+2025-02-15 12:53:33.070 +02:00 [INF] Captcha solved correctly
+2025-02-15 12:53:33.072 +02:00 [INF] Purchase confirmed for Смартфон
+2025-02-15 12:53:33.074 +02:00 [INF] Program work end
+2025-02-15 13:05:18.844 +02:00 [INF] Selected product Смартфон (ID: 1)
+2025-02-15 13:05:18.973 +02:00 [DBG] Generating new captcha
+2025-02-15 13:05:18.979 +02:00 [INF] New captcha generated
+2025-02-15 13:05:37.149 +02:00 [DBG] Entered value 9 at 7:6
+2025-02-15 13:05:43.551 +02:00 [INF] Captcha solved correctly
+2025-02-15 13:05:43.555 +02:00 [INF] Purchase confirmed for Смартфон
+2025-02-15 13:05:43.557 +02:00 [INF] Program work end
+2025-02-15 13:54:04.332 +02:00 [INF] Selected product Смартфон (ID: 1)
+2025-02-15 13:54:04.479 +02:00 [DBG] Generating new captcha
+2025-02-15 13:54:04.531 +02:00 [INF] New captcha generated
+2025-02-15 13:54:42.261 +02:00 [INF] Selected product Ноутбук (ID: 2)
+2025-02-15 13:54:42.307 +02:00 [DBG] Generating new captcha
+2025-02-15 13:54:42.311 +02:00 [INF] New captcha generated
+2025-02-15 13:54:49.820 +02:00 [ERR] Error: System.FormatException: The input string 'f' was not in a correct format.
+   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Convert.ToInt32(String value)
+   at SudokuShop.SudokuPuzzle.ProcessInput(String input) in D:\repos\log\log\Program.cs:line 240
+2025-02-15 13:54:59.811 +02:00 [ERR] Error: System.FormatException: The input string 'd' was not in a correct format.
+   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Convert.ToInt32(String value)
+   at SudokuShop.SudokuPuzzle.ProcessInput(String input) in D:\repos\log\log\Program.cs:line 240
+2025-02-15 14:20:18.774 +02:00 [INF] Selected product Ноутбук (ID: 2)
+2025-02-15 14:20:18.812 +02:00 [DBG] Generating new captcha
+2025-02-15 14:20:18.816 +02:00 [INF] New captcha generated
+2025-02-15 14:20:35.063 +02:00 [DBG] Entered value 1 at 8:6
+2025-02-15 14:20:38.040 +02:00 [INF] Captcha solved correctly
+2025-02-15 14:20:38.043 +02:00 [INF] Purchase confirmed for Ноутбук
+2025-02-15 14:20:38.044 +02:00 [INF] Program work end
+2025-02-15 14:39:53.162 +02:00 [INF] Selected product Ноутбук (ID: 2)
+2025-02-15 14:39:53.249 +02:00 [DBG] Generating new captcha
+2025-02-15 14:39:53.255 +02:00 [INF] New captcha generated
+2025-02-15 14:40:46.346 +02:00 [WRN] Incorrect captcha solution
+2025-02-15 14:40:46.348 +02:00 [INF] Purchase canceled for Ноутбук
+2025-02-15 14:40:46.350 +02:00 [INF] Program work end
+2025-02-15 14:41:05.077 +02:00 [INF] Selected product Ноутбук (ID: 2)
+2025-02-15 14:41:05.123 +02:00 [DBG] Generating new captcha
+2025-02-15 14:41:05.127 +02:00 [INF] New captcha generated
+2025-02-15 14:41:20.436 +02:00 [WRN] Attempt to modify protected cell 9:5
+2025-02-15 14:41:36.961 +02:00 [DBG] Entered value 3 at 6:5
+2025-02-15 14:41:44.233 +02:00 [INF] Captcha solved correctly
+2025-02-15 14:41:44.236 +02:00 [INF] Purchase confirmed for Ноутбук
+2025-02-15 14:41:44.239 +02:00 [INF] Program work end
+2025-02-15 14:47:21.272 +02:00 [INF] Selected product Смартфон (ID: 1)
+2025-02-15 14:47:21.309 +02:00 [DBG] Generating new captcha
+2025-02-15 14:47:21.313 +02:00 [INF] New captcha generated
+2025-02-15 14:47:24.144 +02:00 [WRN] Attempt to modify protected cell 0:1
+2025-02-15 14:49:06.160 +02:00 [INF] Selected product Смартфон (ID: 1)
+2025-02-15 14:49:06.233 +02:00 [DBG] Generating new captcha
+2025-02-15 14:49:14.716 +02:00 [INF] Selected product Смартфон (ID: 1)
+2025-02-15 14:49:14.803 +02:00 [DBG] Generating new captcha
+2025-02-15 14:49:35.270 +02:00 [INF] Selected product Смартфон (ID: 1)
+2025-02-15 14:49:35.369 +02:00 [DBG] Generating new captcha
+2025-02-15 14:49:35.376 +02:00 [INF] New captcha generated
+2025-02-15 14:49:39.398 +02:00 [WRN] Attempt to modify protected cell 1:0
+2025-02-15 14:49:55.959 +02:00 [INF] Selected product Смартфон (ID: 1)
+2025-02-15 14:49:56.021 +02:00 [DBG] Generating new captcha
+2025-02-15 14:49:56.045 +02:00 [INF] New captcha generated
+2025-02-15 14:49:57.716 +02:00 [WRN] Attempt to modify protected cell 1:1
+2025-02-15 14:50:08.994 +02:00 [DBG] Entered value 1 at 8:7
+2025-02-15 14:50:20.441 +02:00 [INF] Captcha solved correctly
+2025-02-15 14:50:20.445 +02:00 [INF] Purchase confirmed for Смартфон
+2025-02-15 14:50:20.447 +02:00 [INF] Program work end
